@@ -14,13 +14,16 @@ The database is normalized and uses proper constraints (PKs, FKs, UNIQUE, NOT NU
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/your-username/clinic-booking-system.git
    cd clinic-booking-system
 
-2.Open MySQL CLI or a tool like phpMyAdmin or MySQL Workbench.
-3. Run the SQL sript
+2.Open MySQL CLI or a tool like phpMyAdmin or MySQL Workbench:
+
+3. Run the SQL script:
 
 source clinic_booking_system.sql;
+
+
 
 
